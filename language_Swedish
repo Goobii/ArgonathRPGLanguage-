@@ -1,0 +1,62 @@
+LOGIN_WELCM1 - Du har framgångsrikt loggat in, {Player Name}
+LOGIN_WELCM2 - Välkommen till Argonath RPG RS5!
+LOGIN_MFERR1 - Multi-factor verifierings service är offline. Försök igen senare.
+LOGIN_MFERR2 - Fel: Koden är fel!
+LOGIN_MF1    - Ditt konto har multi-factor autentisering aktiverad.\n\n Ange koden som visas i appen Google Authenticator app:
+LOGIN_PASSER1- Fel: Ditt lösenord passade inte! Kom ihåg, de är skiftlägeskänsliga!
+LOGIN_PASSER2- Fel: Du har anget ett fel lösenord.
+LOGIN_PASS2  - Upprepa det lösenord du har valt.
+LOGIN_QUIT   - Är du säker på att du vill sluta spela?
+LOGIN_ADULT  - Varning: Denna server innehåller element som kan anses endast lämplig för vuxna.
+LOGIN_BYE1   - Du valde att lämna servern.
+ERROR_NOTLOG - Fel: du har inte loggat in.
+ERROR_KICK   - Fel: du kan inte göra det kommandot ännu.
+ECON_RELOAD  - [ALERT] Dina ekonomi data håller på att ladda, ekonomiska funktioner tillgängliga inom kort.
+TXT_Login0   - Välkommen till Argonath RPG
+TXT_Login1   - A world of its own
+CMD_TIME     - Server tiden är {Time} (CET - Central European Time).
+CMD_TD       - Klockan är {time} server tid (CET - Central European Time), datumet är {date}
+CMD_DATE     - Datumet är {date}.
+MONTH_1      - Januari
+MONTH_2      - Februari
+MONTH_3      - Mars
+MONTH_4      - April
+MONTH_5      - Maj
+MONTH_6      - Juni
+MONTH_7      - Juli
+MONTH_8      - Augusti
+MONTH_9      - September
+MONTH_10     - Oktober
+MONTH_11     - November
+MONTH_12     - December
+
+// Other
+RES_COMBAT   - Du kan inte göra detta samtidigt som du är i strid.
+RES_NODONE	 - Fel: Den här funktionen är för närvarande inaktiverad på grund av en bugg.
+
+// Economy
+ECON_ATM_TY  - Tack för att du använder sedelautomaten som tillhandahålls av Argonath RPG Bank!"
+ECON_ATM_NC  - Fel: Du är inte nära en sedelautomat.
+ECON_ATM_CIV - Du har inget bank konto till att använda denna enhet. Du måste först vara en juridisk medborgare.
+ECON_ATM_LIM - Fel: Du kan inte ta ut större belopp än $100,00 vid en bankomat. Besök den lokala banken.
+ECON_ATM_POS - Fel: Du kan bara ta ut ett positivt belopp.
+ECON_ATM_1m  - Fel: Du måste vänta en minut innan du kan använda bankomaten igen för ett tillbakadragande.
+ECON_BNK_N10 - Error: Kan inte vara längre än 10 tecken.
+ECON_BNK_DBT - Banken: Tyvärr, du är i skuld. Ditt konto är fryst.
+ECON_BNK_ACC - Kontot existerar inte eller så har du inte har tillgång till den.
+ECON_BNK_FKT - Det uppstod ett fel med källkontot.
+ECON_BNK_LRG - Fel: Beloppet är för stort.
+ECON_BNK_MIN - Fel: minimibeloppet är $1.
+ECON_BNK_FUN - Fel: Du har inte tillräckligt med pengar tillgänligt för att sätta in detta belopp.
+ECON_BNK_WNSF- Du har inte tillräckligt med tillgångar för att utföra begäran.
+ECON_BNK_TY  - Tack för att du besökte Argonath RPG Bank
+ECON_BNK_REJ - Transaktionen avvisad, tillgångar kommer inte att överföras.
+ECON_BNK_PART- Din partner måste vara i banken!
+ECON_BNK_PSLF- Du kan inte öppna ett partnerkonto med dig själv.
+ECON_BNK_PNO - Du har valt att inte skapa ett konto.
+ECON_BNK_PPNO- Din partner har nekat din begäran om att öppna ett konto.
+ECON_BNK_LOAD- Fel: Dina banker inte laddat ännu, var god vänta.
+ECON_BNK_BNK - Fel: Du måste vara inne i banken.
+ECON_BNK_CIV - Fel: Vi tillåter inte invandrare att ha ett fungerande bankkonto. Pass krävs för att använda banken.
+ECON_BNK_CRI - Fel: Banken är stängd på grund av en finansiell kris.
+ECON_BNK_GRP - Fel: Använd /groupbank för att ta ut/sätta in ifrån ett gruppkonto.
